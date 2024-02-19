@@ -1,5 +1,4 @@
-<img align = "center"> <img src = "https://github.com/reigndeity/ImageDump/blob/main/ReignDeity/Randall%20Jay%20Ramirez.gif?raw=true">
-
+<img align = "center"> <img src = "https://github.com/reigndeity/reigndeity/blob/main/imagedump/reigndeityprofile/Randall%20Jay%20Ramirez.gif?raw=true">
 
 
 
