@@ -2,7 +2,7 @@
 
 
 
-<h2 align="center">Hi! The name is Randall Jay Ramirez</h2>
+
 <h3 align="center">A 2nd Year Game Development Student from Jose Rizal University</h3>
 
 - I am currently learning C# Programming in Unity
