@@ -9,7 +9,7 @@
 
 - You can find my other works in this [**link**](https://reigndeity08.wixsite.com/randalljayramirez)
 
-- If you have any questions or concerns, you may reach out to me at kyrstensasil.business@gmail.com
+- If you have any questions or concerns, you may reach out to me at randalljayramirez@gmail.com
 
 
 <p align="left">
