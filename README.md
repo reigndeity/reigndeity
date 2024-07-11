@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">A 2nd Year Game Development Student from Jose Rizal University</h3>
+<h3 align="center">A 3rd Year Game Development Student from Jose Rizal University</h3>
 
 - I am currently learning C# Programming in Unity
 
