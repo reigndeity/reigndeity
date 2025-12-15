@@ -6,7 +6,7 @@
 
 - I am currently learning C# Programming in Unity
 
-- You can find my other works in this [**link**](https://reigndeity08.wixsite.com/randalljayramirez)
+- You can visit my website here: [**link**](https://ramirez-portfolio.vercel.app/)
 
 - If you have any questions or concerns, you may reach out to me at randalljayramirez@gmail.com
 
