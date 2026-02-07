@@ -4,7 +4,7 @@
 
 <h3 align="center">A 4th Year Game Development Student from Jose Rizal University</h3>
 
-- I am currently learning C# Programming in Unity
+- I am always learning new stuff :>
 
 - You can visit my website here: [**link**](https://ramirez-portfolio.vercel.app/)
 
