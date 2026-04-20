@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">An Aspriing Game Developer</h3>
+<h3 align="center">Aspiring Game Developer</h3>
 
 - I am always learning new stuff :>
 
